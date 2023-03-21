@@ -1,0 +1,17 @@
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\bin\Debug\net6.0-windows\20234764이기민_과제4.exe
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\bin\Debug\net6.0-windows\20234764이기민_과제4.deps.json
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\bin\Debug\net6.0-windows\20234764이기민_과제4.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\bin\Debug\net6.0-windows\20234764이기민_과제4.dll
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\bin\Debug\net6.0-windows\20234764이기민_과제4.pdb
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\obj\Debug\net6.0-windows\20234764이기민_과제4.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\obj\Debug\net6.0-windows\_20234764이기민_과제4.Form1.resources
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\obj\Debug\net6.0-windows\20234764이기민_과제4.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\obj\Debug\net6.0-windows\20234764이기민_과제4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\obj\Debug\net6.0-windows\20234764이기민_과제4.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\obj\Debug\net6.0-windows\20234764이기민_과제4.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\obj\Debug\net6.0-windows\20234764이기민_과제4.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\obj\Debug\net6.0-windows\20234764이기민_과제4.dll
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\obj\Debug\net6.0-windows\refint\20234764이기민_과제4.dll
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\obj\Debug\net6.0-windows\20234764이기민_과제4.pdb
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\obj\Debug\net6.0-windows\20234764이기민_과제4.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\바탕 화면\20234764이기민_과제4\obj\Debug\net6.0-windows\ref\20234764이기민_과제4.dll
