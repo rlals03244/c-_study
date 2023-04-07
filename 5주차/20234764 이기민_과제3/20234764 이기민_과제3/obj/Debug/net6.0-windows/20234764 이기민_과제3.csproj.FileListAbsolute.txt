@@ -1,0 +1,17 @@
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\bin\Debug\net6.0-windows\20234764 이기민_과제3.exe
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\bin\Debug\net6.0-windows\20234764 이기민_과제3.deps.json
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\bin\Debug\net6.0-windows\20234764 이기민_과제3.runtimeconfig.json
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\bin\Debug\net6.0-windows\20234764 이기민_과제3.dll
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\bin\Debug\net6.0-windows\20234764 이기민_과제3.pdb
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\obj\Debug\net6.0-windows\20234764 이기민_과제3.csproj.AssemblyReference.cache
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\obj\Debug\net6.0-windows\_20234764_이기민_과제3.Form1.resources
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\obj\Debug\net6.0-windows\20234764 이기민_과제3.csproj.GenerateResource.cache
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\obj\Debug\net6.0-windows\20234764 이기민_과제3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\obj\Debug\net6.0-windows\20234764 이기민_과제3.AssemblyInfoInputs.cache
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\obj\Debug\net6.0-windows\20234764 이기민_과제3.AssemblyInfo.cs
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\obj\Debug\net6.0-windows\20234764 이기민_과제3.csproj.CoreCompileInputs.cache
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\obj\Debug\net6.0-windows\20234764 이기민_과제3.dll
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\obj\Debug\net6.0-windows\refint\20234764 이기민_과제3.dll
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\obj\Debug\net6.0-windows\20234764 이기민_과제3.pdb
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\obj\Debug\net6.0-windows\20234764 이기민_과제3.genruntimeconfig.cache
+C:\Users\dlrud\Desktop\20234764 이기민_과제3\20234764 이기민_과제3\obj\Debug\net6.0-windows\ref\20234764 이기민_과제3.dll
