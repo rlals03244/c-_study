@@ -1,0 +1,17 @@
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\bin\Debug\net6.0-windows\20234764이기민_10주차 과제2.exe
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\bin\Debug\net6.0-windows\20234764이기민_10주차 과제2.deps.json
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\bin\Debug\net6.0-windows\20234764이기민_10주차 과제2.runtimeconfig.json
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\bin\Debug\net6.0-windows\20234764이기민_10주차 과제2.dll
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\bin\Debug\net6.0-windows\20234764이기민_10주차 과제2.pdb
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\obj\Debug\net6.0-windows\20234764이기민_10주차 과제2.csproj.AssemblyReference.cache
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\obj\Debug\net6.0-windows\_20234764이기민_10주차_과제2.Form1.resources
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\obj\Debug\net6.0-windows\20234764이기민_10주차 과제2.csproj.GenerateResource.cache
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\obj\Debug\net6.0-windows\20234764이기민_10주차 과제2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\obj\Debug\net6.0-windows\20234764이기민_10주차 과제2.AssemblyInfoInputs.cache
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\obj\Debug\net6.0-windows\20234764이기민_10주차 과제2.AssemblyInfo.cs
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\obj\Debug\net6.0-windows\20234764이기민_10주차 과제2.csproj.CoreCompileInputs.cache
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\obj\Debug\net6.0-windows\20234764이기민_10주차 과제2.dll
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\obj\Debug\net6.0-windows\refint\20234764이기민_10주차 과제2.dll
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\obj\Debug\net6.0-windows\20234764이기민_10주차 과제2.pdb
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\obj\Debug\net6.0-windows\20234764이기민_10주차 과제2.genruntimeconfig.cache
+C:\Users\dlrud\Desktop\20234764이기민_10주차 과제2\20234764이기민_10주차 과제2\obj\Debug\net6.0-windows\ref\20234764이기민_10주차 과제2.dll
